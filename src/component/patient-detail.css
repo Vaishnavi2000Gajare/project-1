@@ -1,0 +1,106 @@
+h1{
+    margin-top: -1179px;
+    margin-left: -400px;
+}
+div#detail {
+    margin-left: 400px;
+}
+
+  /* table {
+    border: 2px solid forestgreen;
+    width: 800px;
+    height: 200px;
+  } */
+    
+  /* th {
+    border-bottom: 1px solid black;
+  }
+    
+  td {
+
+    text-align: center;
+  }   */
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  td:nth-child(even) {
+    color: #f52323;
+  }
+  img{
+      border-radius: 100px;
+      margin-left: -1021px;
+      height: 100px;
+        margin-left: -1153px;
+  }
+  table {
+    caption-side: bottom;
+    border-collapse: collapse;
+    margin-left: 500px;
+    margin-top: -107px;
+
+}
+.\31 2 {
+  margin-top: 148px;
+  margin-left: -232px;
+}
+p#\31 4 {
+  margin-left: -650px;
+  margin-top: 10px;
+  background-color: aqua;
+  display: inline ;
+  padding-right: 350px;
+}
+p#\31 5 {
+  margin-left: -900px;
+  padding-right: 199px;
+}
+p#\31 6 {
+  margin-left: -650px;
+  margin-top: 10px;
+  background-color: aqua;
+  display: inline ;
+  padding-right: 199px;
+}
+p#\31 7 {
+  margin-left: -650px;
+  margin-top: 10px;
+  background-color: aqua;
+  display: inline ;
+  padding-right: 250px;
+}
+p#\31 8 {
+  margin-left: -600px;
+  color: darkslategrey;
+  line-height: normal;
+}
+.paragraph{
+  width: 50%;
+  margin-left: 265px;
+}
+h5#previous {
+  margin-right: 850px;
+  font-family: inherit;
+  font-size: xx-large;
+}
+#table1{
+  margin-top: 200px;
+
+}
+div#help {
+  margin-top: 150px;
+  margin-left: -200px;
+}
+button.btn.btn-primary {
+  margin-left: -763px;
+  margin-top: 50px;
+}
+a {
+  text-decoration: none;
+  
+}
+#medical{
+  color: #f52323;
+
+}
