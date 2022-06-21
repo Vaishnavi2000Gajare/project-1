@@ -104,19 +104,7 @@ export default function MedicalPartice() {
 
 
    </div>
-   <div class="12"> 
-   <table>
- <tr>
-     <td>List of prior Sergeries</td>
-     <td>List of Medical Diagnosis</td>
-     <td>List of Medication</td>
-     <td>Airway Evaluation</td>
-     <td>Anesthisiya clearance and Recomandation</td>
-     <td>Dr Cristina Hardey</td>
-     
-   </tr>
- </table>
-   </div>
+  
    <div class="12"> 
    <table>
  <tr>
